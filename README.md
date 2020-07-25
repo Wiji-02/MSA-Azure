@@ -1,12 +1,12 @@
 # MSA-Azure Website Report
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 Link to website: https://msaazuresubmission.azurewebsites.net
 
 Website for my MSA Azure and Cloud Workshop submission, featuring my art portfolio/resume. Upon entering, you
 are met with the homepage, with links to an about, contact and art page.
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 
 ## Current issues with the website
@@ -35,8 +35,7 @@ automatically starts cleaning cache from pagse improving performance rates, rath
 other files to function, making the process quick and easy. For an analytics plugin I chose Koko Analytics due to it 
 being advertised as being privacy-friendly with no involvement with any third parties.
 
-## The high-level steps of how I implemented each plugin, and the applicable benefits realized or expected 
-## to be realized after implementing each plugin.
+## The high-level steps of how I implemented each plugin, and the applicable benefits realized or expected to be realized after implementing each plugin.
 
 All of the plugins I found were easily implemented as they only needed to be activated. Using the Koko Analytics 
 I was able to observe the number of page views per day, and was able to figure out which one of my pages had most traffic.
