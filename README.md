@@ -6,12 +6,12 @@ Link to website: https://msaazuresubmission.azurewebsites.net
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-## The current issues with your website
+## Current issues with the website
 
-## What type of plugins will solve your issue and why?
+## Type of plugins that will solve the issue and why?
 
-## Your choice of plugin provider and why you chose one plugin provider over the others.
+## Choice of plugin provider and why I chose one plugin provider over the others.
 
-## The high-level steps of how you implemented each plugin.
+## The high-level steps of how I implemented each plugin.
 
 ## The applicable benefits realized or expected to be realized after implementing each plugin.
